@@ -1,0 +1,15 @@
+Beam Stress Analysis Summary
+============================
+
+Geometry:
+  Length: 1.0000 m
+  Width: 0.1000 m
+  Height: 0.0500 m
+
+Mesh:
+  Nodes: 34180
+  Elements: 22033
+
+Results:
+  Max Displacement: 6.023236e-07 m (0.0006 mm)
+  Max von Mises Stress: 3.863942e+06 Pa (3.86 MPa)
